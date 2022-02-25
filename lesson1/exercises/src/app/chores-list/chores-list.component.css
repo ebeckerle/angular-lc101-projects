@@ -1,7 +1,8 @@
 .chores {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: purple;
-
+    border-style: dotted;
+    border-color: aqua;
 }
 
 .chores h3 {
